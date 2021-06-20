@@ -1,0 +1,12 @@
+[package]
+edition = "2018"
+name = "comb-iter"
+version = "0.0.0"
+
+authors = ["Thomas Villa <thomvil87@gmail.com>"]
+description = "Iterate over combinations, with allocating"
+documentation = "https://docs.rs/comb-iter/"
+homepage = "https://github.com/thomvil/comb-iter-rs"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/thomvil/comb-iter-rs"
