@@ -4,7 +4,7 @@ name = "comb-iter"
 version = "0.0.0"
 
 authors = ["Thomas Villa <thomvil87@gmail.com>"]
-description = "Iterate over combinations, with allocating"
+description = "Iterate over combinations, without allocating as a Vec or array"
 documentation = "https://docs.rs/comb-iter/"
 homepage = "https://github.com/thomvil/comb-iter-rs"
 license = "MIT"
